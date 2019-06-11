@@ -1,4 +1,4 @@
-package com.kazale.pontointeligente.api.utils;
+package com.brentz.pontointeligente.api.utils;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
